@@ -1,0 +1,1 @@
+Put project cover images in this folder. Reference them from assets/js/portfolio.js, e.g. "assets/media/thumbnails/project-01.jpg".

@@ -1,0 +1,1 @@
+Put full-size photography projects in this folder. Reference them from assets/js/portfolio.js with the image field, e.g. "assets/media/photos/portrait-01.jpg".

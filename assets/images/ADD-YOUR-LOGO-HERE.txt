@@ -1,0 +1,1 @@
+Place your logo image in this folder (example: logo.png), then set logoPath in ../js/site-config.js to "assets/images/logo.png".

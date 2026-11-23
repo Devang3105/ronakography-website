@@ -1,0 +1,1 @@
+Put MP4 videos in this folder. Reference them from assets/js/portfolio.js, e.g. "assets/media/videos/project-01.mp4".
